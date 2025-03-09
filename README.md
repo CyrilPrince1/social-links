@@ -39,7 +39,7 @@ I will continue to learn and perfect my front end skills.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/CyrilPrince1)
+- Frontend Mentor - [@CyrilPrince1](https://www.frontendmentor.io/profile/CyrilPrince1)
 - Twitter - [@CyrilxDev](https://www.twitter.com/CyrilxDev)
 
 ## Acknowledgments
