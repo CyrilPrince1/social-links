@@ -17,7 +17,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Solution](https://social-links-cyrilprinces-projects.vercel.app/)
-- Live Site URL: [Live-site](hhttps://social-links-cyrilprinces-projects.vercel.app/)
 
 ## My process
 
